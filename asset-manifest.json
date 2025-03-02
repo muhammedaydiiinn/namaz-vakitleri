@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/namaz-vakitleri/static/css/main.e52c093c.css",
-    "main.js": "/namaz-vakitleri/static/js/main.dbf1fbc5.js",
+    "main.js": "/namaz-vakitleri/static/js/main.e10e805d.js",
     "static/js/453.c5c972fc.chunk.js": "/namaz-vakitleri/static/js/453.c5c972fc.chunk.js",
     "index.html": "/namaz-vakitleri/index.html",
     "main.e52c093c.css.map": "/namaz-vakitleri/static/css/main.e52c093c.css.map",
-    "main.dbf1fbc5.js.map": "/namaz-vakitleri/static/js/main.dbf1fbc5.js.map",
+    "main.e10e805d.js.map": "/namaz-vakitleri/static/js/main.e10e805d.js.map",
     "453.c5c972fc.chunk.js.map": "/namaz-vakitleri/static/js/453.c5c972fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e52c093c.css",
-    "static/js/main.dbf1fbc5.js"
+    "static/js/main.e10e805d.js"
   ]
 }
